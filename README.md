@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m a graphic computer student
-- 🌱 I’m currently learning web development...
+- 🔭 I'm a graphic computer technician...
+- 🌱 I'm currently learning web development, especially front-end development, but I also enjoy to study back-end development...
 
 <div align="center">
   <a href="https://github.com/anafts">
@@ -12,6 +12,7 @@
 </div>
 
 
+### 🛠️ Tools and technologies:
 
 
 
@@ -26,11 +27,10 @@
    <img align="center" alt="Ana-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
   
   
-##
+#
 
 
-
-
+### 💌 Contact-me:
 <div>
     
   <a href="https://www.linkedin.com/in/ana-freitas-794b3523b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
