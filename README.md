@@ -4,7 +4,7 @@
 
 - 🔭 I'm a graphic computer technician...
 - 🌱 I'm currently learning web development, especially front-end development, but I also enjoy to study back-end development...
-- 🚀 I like to learn new things, watch dramas and I love to read books. 
+- 🚀 I like to learn new things and I love to read books. 
 
 <div align="center">
   <a href="https://github.com/anafts">
