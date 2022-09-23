@@ -2,9 +2,8 @@
 
 
 
-- 🔭 I have an associate's degree in graphic computer...
-- 🌱 I'm currently learning about web development, especially front-end development, but I also enjoy to study about back-end development...
-- 🚀 I like to learn new things and I love to read books. 
+- 🔭 I have an associate's degree in graphic computer and I like game programming ...
+- 🌱 I'm currently learning web development, especially about front-end development using React.js, but I also enjoy to study about back-end development using Node.js. I really like to learn new things and I love to read books. 
 
 <div align="center">
   <a href="https://github.com/anafts">
@@ -13,7 +12,7 @@
 </div>
 
 
-### 🛠️ Tools and technologies:
+### 🚀 Tools and technologies:
 
 
 
