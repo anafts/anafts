@@ -1,9 +1,7 @@
 ## Hi! I'm Ana 🦊
 
-
-
-- 🔭 I have an associate's degree in graphic computer and I like game programming ...
-- 🌱 I'm currently learning web development, especially about front-end development using React.js, but I also enjoy to study about back-end development using Node.js. I really like to learn new things and I love to read books. 
+- 🌱 I'm currently learning web development, with a focus on front-end development using React.js, while also studying back-end development using Node.js to expand my knowledge and skills in this field.  
+-  🔭 As a computer graphics graduate and front-end developer, I specialize in designing visually appealing and user-friendly digital interfaces that enhance the user experience. 
 
 <div align="center">
   <a href="https://github.com/anafts">
