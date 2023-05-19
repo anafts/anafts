@@ -1,7 +1,7 @@
 ## Hi! I'm Ana 🦊
 
-- 🌱 I'm currently learning web development, with a focus on front-end development using React.js, while also studying back-end development using Node.js to expand my knowledge and skills in this field.  
--  🔭 As a computer graphics graduate and front-end developer, I specialize in designing visually appealing and user-friendly digital interfaces that enhance the user experience. 
+-  🔭  As a computer graphics graduate and aspiring fullstack designer, I specialize in designing visually appealing and user-friendly digital interfaces that enhance the user experience.
+- 🌱  Currently, my focus lies on honing my web development skills, with a strong emphasis on front-end development utilizing the powerful React.js framework. Through this journey, I aim to create immersive and user-friendly interfaces that captivate users. Additionally, I am dedicated to expanding my expertise in back-end development by delving into the world of Node.js.
 
 <div align="center">
   <a href="https://github.com/anafts">
@@ -28,10 +28,24 @@
   <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="NodeJS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+   <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+   <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  
+  
  
   
  
-#
+### 💻 Interest in learning: 
+  
+  <img align="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+   <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+ 
+  
+  
+  
 
 
 ### 💌 Contact-me:
