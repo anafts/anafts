@@ -1,8 +1,7 @@
 ## Hi! I'm Ana 🦊
 
-- 🔭 Estudante de Ciência da Computação | Aspirante a Engenheira de Dados
-- 🌱 Sou apaixonada por tecnologia e focada em desenvolver soluções eficientes para manipulação e análise de dados. Atualmente, estou cursando Bacharelado em Ciência da Computação na UNLP e buscando oportunidades para aplicar meus conhecimentos em Python e SQL.
-- 💡 Como aluna pesquisadora no LIFIA, trabalho com Modelos de Linguagem de Grande Escala (LLMs) e grafos de conhecimento para analisar e processar grandes volumes de dados, contribuindo para projetos inovadores na área de ciência de dados.
+- 🌱 I'm passionate about technology and enjoy creating practical, efficient solutions for working with data. I have a background in Graphic Computing and I'm currently pursuing a Bachelor's degree in Computer Science at UNLP, while deepening my knowledge in Python, SQL, and competitive programming with C++.
+💡 At LIFIA, I work as a student researcher on projects involving Large Language Models (LLMs) and knowledge graphs, helping to analyze and process large volumes of data in smart and innovative ways.
 
 <div align="center">
   <a href="https://github.com/anafts">
