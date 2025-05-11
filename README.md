@@ -1,7 +1,7 @@
-## Hi! I'm Ana 🦊
+## Hi! I'm Ana 
 
-- 🌱 I'm passionate about technology and enjoy creating practical, efficient solutions for working with data. I have a background in Graphic Computing and I'm currently pursuing a Bachelor's degree in Computer Science at UNLP, while deepening my knowledge in Python, SQL, and competitive programming with C++.
-- 💡 At LIFIA, I work as a student researcher on projects involving Large Language Models (LLMs) and knowledge graphs, helping to analyze and process large volumes of data in smart and innovative ways.
+- I'm passionate about technology and enjoy creating practical, efficient solutions for working with data. I have a background in Graphic Computing and I'm currently pursuing a Bachelor's degree in Computer Science at UNLP, while deepening my knowledge in Python, SQL, and competitive programming with C++.
+- At LIFIA, I work as a student researcher on projects involving Large Language Models (LLMs) and knowledge graphs, helping to analyze and process large volumes of data in smart and innovative ways.
 
 <div align="center">
   <a href="https://github.com/anafts">
