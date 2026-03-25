@@ -2,8 +2,6 @@
   ## Hi there! I'm Ana 👋
 
 
-A Computer Science student at UNLP, with a background in Graphic Computing.
-
 ### GitHub Stats
 
 <div align="center">
